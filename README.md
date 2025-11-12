@@ -82,7 +82,7 @@ Panel para el bibliotecario con opciones administrativas.
 
 Sistema de autenticación básico.
 
-Requisitos no funcionales:
+**Requisitos no funcionales:**
 
 Interfaz web simple y responsive.
 
