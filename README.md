@@ -2,16 +2,16 @@
 El cliente desea una aplicación web para gestionar los préstamos de libros del instituto. Quiere registrar libros y usuarios, controlar préstamos y devoluciones, y consultar el catálogo fácilmente. Busca una herramienta simple, rápida y segura para modernizar la biblioteca.
 Metodología: SCRUM (Ágil)
 
-Motivos:
+**Motivos:**
 Permite entregar versiones funcionales de la aplicación cada pocas semanas.
 Se adapta a los cambios del cliente fácilmente.
 Ideal para proyectos pequeños o medianos con equipos de 2-4 personas.
 Favorece la comunicación continua entre cliente y equipo.
 
-Tamaño del grupo:
+**Tamaño del grupo:**
 Supongamos 3 miembros.
 
-Etapas principales:
+**Etapas principales:**
 
 Planificación del Sprint
 
@@ -37,17 +37,17 @@ Entrega final y documentación
 
 Entrega del producto final con su documentación y pruebas.
 
-Roles:
+**Roles:**
 
-Product Owner (PO): Contacto con el cliente, define los requisitos. → Alumno 1
+**Product Owner (PO):** Contacto con el cliente, define los requisitos. → Alumno 1
 
-Scrum Master (SM): Asegura que se cumpla la metodología. → Alumno 2
+**Scrum Master (SM):** Asegura que se cumpla la metodología. → Alumno 2
 
-Development Team (Dev Team): Diseña, programa y prueba el software. → Alumno 3 (y los demás)
+**Development Team (Dev Team):** Diseña, programa y prueba el software. → Alumno 3 (y los demás)
 
-Reuniones y productos:
+**Reuniones y productos:**
 
-Reuniones:
+**Reuniones:**
 
 Daily (15 min)
 
@@ -55,7 +55,7 @@ Sprint Review (cada 2 semanas)
 
 Retrospectiva (al final de cada Sprint)
 
-Productos:
+**Productos:**
 
 Product Backlog
 
@@ -65,7 +65,8 @@ Incremento del producto (versión funcional)
 
 Documentación técnica
 
-Requisitos funcionales:
+
+**Requisitos funcionales:**
 
 Registrar libros con título, autor, ISBN y estado.
 
