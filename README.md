@@ -130,3 +130,7 @@ Documentación completa y mantenible.
 | **Sprint 2**          | 2 semanas | Módulo de préstamos |
 | **Sprint 3**          | 2 semanas | Interfaz completa   |
 | **Pruebas y entrega** | 2 semanas | Producto final      |
+
+**Resultado esperado**
+
+Una aplicación web funcional que gestione los préstamos de la biblioteca del centro, fácil de usar, segura y documentada, desarrollada según los principios de Ingeniería del Software y metodología SCRUM.
