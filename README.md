@@ -95,3 +95,17 @@ Tiempo de respuesta < 2 segundos por operación.
 Cumplimiento de la LOPD (protección de datos).
 
 Documentación completa y mantenible.
+
+
+
+| Fase                     | Herramienta                               | Uso                               |
+| ------------------------ | ----------------------------------------- | --------------------------------- |
+| **Desarrollo**           | **Visual Studio Code / IntelliJ**         | Edición de código                 |
+| **Lenguaje**             | **Python (Flask) o JavaScript (Node.js)** | Backend                           |
+| **Frontend**             | **HTML, CSS, JavaScript, Bootstrap**      | Interfaz de usuario               |
+| **Base de datos**        | **SQLite / MySQL**                        | Gestión de datos                  |
+| **Control de versiones** | **Git + GitHub**                          | Gestión del código y colaboración |
+| **Documentación**        | **Markdown, GitHub Wiki, Draw.io**        | Diagramas y descripciones         |
+| **Pruebas**              | **Pytest / Jest**                         | Pruebas unitarias                 |
+| **Gestión de tareas**    | **GitHub Projects o Trello**              | Seguimiento de Sprints y backlog  |
+
