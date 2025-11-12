@@ -109,3 +109,24 @@ Documentación completa y mantenible.
 | **Pruebas**              | **Pytest / Jest**                         | Pruebas unitarias                 |
 | **Gestión de tareas**    | **GitHub Projects o Trello**              | Seguimiento de Sprints y backlog  |
 
+**Resumen de ejecución del proyecto**
+
+**Semana 1-2:** Análisis de requisitos y diseño inicial (Product Backlog).
+
+**Semana 3-4:** Sprint 1 → Implementación del registro de libros y usuarios.
+
+**Semana 5-6:** Sprint 2 → Módulo de préstamos y devoluciones.
+
+**Semana 7-8:** Sprint 3 → Interfaz final y panel de administración.
+
+**Semana 9:** Pruebas completas, documentación y entrega final.
+
+**Semana 10:** Presentación al cliente y cierre del proyecto.
+
+| **Etapa**             | **Duración ** | **Entregable**          |
+| ----------------- | --------- | ------------------- |
+| **Planificación**     | 1 semana  | Product Backlog     |
+| **Sprint 1**          | 2 semanas | Módulo de registro  |
+| **Sprint 2**          | 2 semanas | Módulo de préstamos |
+| **Sprint 3**          | 2 semanas | Interfaz completa   |
+| **Pruebas y entrega** | 2 semanas | Producto final      |
